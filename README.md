@@ -8,7 +8,7 @@
 - [How to Play](#How-to-Play)
 
 ## Installation
-To Install the game, simply download the zip file to your desktop. double click the zip file to unzip it (on a Mac device) or use file unzipper software to access the folder. 
+To Install the game, simply download the zip file to your desktop. Double click the zip file to unzip it (on a Mac device) or use file unzipper software to access the folder. 
 
 Once the folder is open, locate the “index.html” file, right click and open in your web browser (i.e. chrome, Firefox, Explorer). Now you are ready to play the game! 
 
