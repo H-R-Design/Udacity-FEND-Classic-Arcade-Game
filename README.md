@@ -15,3 +15,6 @@ Once the folder is open, locate the “index.html” file, right click and open 
 Use the arrow keys on your keyboard ( left, right, up and down) to move your avatar. 
 The goal is to reach the water without colliding with the bugs. If you collide with a bug you will automatically move back to starting position. 
 Good luck!
+
+play the game online here: 
+https://h-r-design.github.io/Udacity-FEND-Classic-Arcade-Game/
