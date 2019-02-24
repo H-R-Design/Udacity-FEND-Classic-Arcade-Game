@@ -1,5 +1,5 @@
 # Classic Arcade Game Clone Project
-![alt text](https://github.com/H-R-Design/Udacity-FEND-Classic-Arcade-Game/blob/gh-pages/images/Arcade%20game.png "Arcade game")
+<img src="https://github.com/H-R-Design/Udacity-FEND-Classic-Arcade-Game/blob/gh-pages/images/Arcade%20game.png alt="drawing" width="20" height= "20"/>
 
 ## Table of Contents
 
