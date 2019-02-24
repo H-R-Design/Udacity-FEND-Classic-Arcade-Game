@@ -17,4 +17,4 @@ The goal is to reach the water without colliding with the bugs. If you collide w
 Good luck!
 
 Play the game online
-<a href="https://h-r-design.github.io/Udacity-FEND-Classic-Arcade-Game/" target="_blank"> here</a>
+<a href="https://h-r-design.github.io/Udacity-FEND-Memory-Game/" target="_blank"> here</a>
