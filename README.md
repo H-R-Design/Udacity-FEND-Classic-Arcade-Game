@@ -16,5 +16,5 @@ Use the arrow keys on your keyboard ( left, right, up and down) to move your ava
 The goal is to reach the water without colliding with the bugs. If you collide with a bug you will automatically move back to starting position. 
 Good luck!
 
-play the game online here: 
+Play the game online here: 
 https://h-r-design.github.io/Udacity-FEND-Classic-Arcade-Game/
