@@ -1,6 +1,6 @@
 # Classic Arcade Game Clone Project
 
-<img src="https://github.com/H-R-Design/Udacity-FEND-Classic-Arcade-Game/blob/gh-pages/images/Arcade%20game.png" alt="drawing" width="400" height= "431"/>
+<img src="https://github.com/H-R-Design/Udacity-FEND-Restaurant-Reviews-App/blob/gh-pages/RRA.png" alt="drawing" width="400" height= "218"/>
 
 ## Table of Contents
 
